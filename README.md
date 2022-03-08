@@ -11,6 +11,7 @@ A ideia era conhecer e aplicar algo utilizando essas tecnologias.
 Disponibilizei o projeto no Heroku caso queira testar e as APIs estão no Swagger.
 
 Heroku: `https://spring-webflux-pl.herokuapp.com/{recurso}`
+
 Swagger: `https://spring-webflux-pl.herokuapp.com/swagger-ui/index.html`
 
 
